@@ -35,17 +35,17 @@ Make sure Python is installed on your machine. You can download it from the offi
 ```
 2. **Install the required dependencies (if any)**: This project uses only built-in libraries, so there is no need for external installations.
 
-Run the script:
+3. **Run the script**:
+  ```bash
+  python product_registration.py
+```
+### How to Use
+1. **Run the application**: Launch the script to open the graphical user interface.
 
-bash
-Copiar código
-python product_registration.py
-How to Use
-Run the application: Launch the script to open the graphical user interface.
-Register a Product: Fill in the fields for product name, description, value, and availability, then click on the "Register" button.
-View Product Listings:
-Click on the "Full Listing" button to view all registered products in a detailed table.
-Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
+2. **Register a Produc**: Fill in the fields for product name, description, value, and availability, then click on the "Register" button.
+3. **View Product Listings**:
+  Click on the "Full Listing" button to view all registered products in a detailed table.
+  Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
 Screenshots
 Here you could include some screenshots to demonstrate the system's UI.
 
