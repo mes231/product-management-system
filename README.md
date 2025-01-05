@@ -32,7 +32,7 @@ Make sure Python is installed on your machine. You can download it from the offi
 
   ```bash
   git clone https://github.com/mes231/product-management-system
-
+```
 2. **Install the required dependencies (if any)**: This project uses only built-in libraries, so there is no need for external installations.
 
 Run the script:
