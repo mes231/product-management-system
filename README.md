@@ -4,19 +4,22 @@ This simple system allows users to register products with details like name, des
 
 1. **Registering new products.**
 2. **Displaying all registered products or displaying a sorted listing by value.**
+
 This project was originally developed as part of an assessment for a job position. It serves as an example for others to modify or extend as needed.
 
-Features
-Product Registration: Allows users to add a product with its name, description, value, and availability.
-Product Listing: Displays a full list of registered products in a table.
-Sorted Listing by Value: Shows a simplified view of products sorted by their value.
-Technologies Used
-Python: The programming language used for developing the system.
-Tkinter: A built-in Python library for creating graphical user interfaces (GUIs).
-SQLite: An embedded database used to store product information.
-ttk (Tkinter Treeview): A component of Tkinter used to display data in a table-like format.
-Setup
-Prerequisites
+## Features
+**Product Registration**: Allows users to add a product with its name, description, value, and availability.
+**Product Listing**: Displays a full list of registered products in a table.
+**Sorted Listing by Value**: Shows a simplified view of products sorted by their value.
+
+## Technologies Used
+**Python**: The programming language used for developing the system.
+**Tkinter**: A built-in Python library for creating graphical user interfaces (GUIs).
+**SQLite**: An embedded database used to store product information.
+**ttk (Tkinter Treeview)**: A component of Tkinter used to display data in a table-like format.
+
+## Setup
+### Prerequisites
 Make sure Python is installed on your machine. You can download it from the official Python website.
 
 Installation
