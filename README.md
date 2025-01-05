@@ -9,26 +9,31 @@ This project was originally developed as part of an assessment for a job positio
 
 ## Features
 **Product Registration**: Allows users to add a product with its name, description, value, and availability.
+
 **Product Listing**: Displays a full list of registered products in a table.
+
 **Sorted Listing by Value**: Shows a simplified view of products sorted by their value.
 
 ## Technologies Used
 **Python**: The programming language used for developing the system.
+
 **Tkinter**: A built-in Python library for creating graphical user interfaces (GUIs).
+
 **SQLite**: An embedded database used to store product information.
+
 **ttk (Tkinter Treeview)**: A component of Tkinter used to display data in a table-like format.
 
 ## Setup
 ### Prerequisites
 Make sure Python is installed on your machine. You can download it from the official Python website.
 
-Installation
-Clone the repository or download the Python script:
+### Installation
+1. **Clone the repository or download the Python script**:
 
-bash
-Copiar código
-git clone <repository_url>
-Install the required dependencies (if any): This project uses only built-in libraries, so there is no need for external installations.
+  ```bash
+  git clone https://github.com/mes231/product-management-system
+
+2. **Install the required dependencies (if any)**: This project uses only built-in libraries, so there is no need for external installations.
 
 Run the script:
 
