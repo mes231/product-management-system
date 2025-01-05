@@ -58,26 +58,32 @@ The system uses an SQLite database stored as ```database.db```. The database con
 
   ````descricao````: Description of the product.
   
-  valor: Value of the product.
+  ````valor````: Value of the product.
   
-  disponivel: Availability of the product (Yes or No).
+  ````disponivel````: Availability of the product (Yes or No).
   
 The database will be created automatically if it doesn't exist in the directory where the script is executed.
 
-Example of Use
-Adding a product:
+## Example of Use
+1. **Adding a product**:
 
-Name: "Laptop"
-Description: "High-end gaming laptop"
-Value: "1500.00"
-Available: "Yes"
-Displaying products: After registration, you can view the full listing or sorted listing by clicking the respective buttons.
+  Name: "Laptop"
+  
+  Description: "High-end gaming laptop"
+  
+  Value: "1500.00"
+  
+  Available: "Yes"
+  
+2. **Displaying products**: After registration, you can view the full listing or sorted listing by clicking the respective buttons.
 
-Notes
-Ensure that the database.db file is located in the same directory as the script, or it will be created automatically upon running the program.
-You can modify or expand the system to add more features, such as product editing or deleting, depending on your requirements.
-Contributing
+## Notes
+  Ensure that the database.db file is located in the same directory as the script, or it will be created automatically upon running the program.
+    
+  You can modify or expand the system to add more features, such as product editing or deleting, depending on your requirements.
+  
+## Contributing
 Feel free to fork this repository and modify it as needed. If you find any issues or have suggestions for improvements, don't hesitate to submit a pull request or open an issue.
 
-License
+## License
 This project is open-source and available under the MIT License.
