@@ -45,12 +45,14 @@ Make sure Python is installed on your machine. You can download it from the offi
 2. **Register a Produc**: Fill in the fields for product name, description, value, and availability, then click on the "Register" button.
 3. **View Product Listings**:
   Click on the "Full Listing" button to view all registered products in a detailed table.
-  Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
-Screenshots
-Here you could include some screenshots to demonstrate the system's UI.
 
-Database Information
-The system uses an SQLite database stored as database.db. The database contains a single table produtos with the following columns:
+  Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
+  
+### Screenshots
+  Here you could include some screenshots to demonstrate the system's UI.
+
+### Database Information
+The system uses an SQLite database stored as ** database.db **. The database contains a single table produtos with the following columns:
 
 nome: Name of the product.
 descricao: Description of the product.
