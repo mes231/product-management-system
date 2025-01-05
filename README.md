@@ -52,7 +52,7 @@ Make sure Python is installed on your machine. You can download it from the offi
   Here you could include some screenshots to demonstrate the system's UI.
 
 ### Database Information
-The system uses an SQLite database stored as ** database.db **. The database contains a single table produtos with the following columns:
+The system uses an SQLite database stored as ```database.db```. The database contains a single table produtos with the following columns:
 
 nome: Name of the product.
 descricao: Description of the product.
