@@ -1,5 +1,5 @@
-## Product Registration and Listing System
-Overview
+# Product Registration and Listing System
+## Overview
 This simple system allows users to register products with details like name, description, value, and availability. It stores this data in a SQLite database and provides two main functionalities:
 
 Registering new products.
