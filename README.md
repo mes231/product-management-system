@@ -2,8 +2,8 @@
 ## Overview
 This simple system allows users to register products with details like name, description, value, and availability. It stores this data in a SQLite database and provides two main functionalities:
 
-Registering new products.
-Displaying all registered products or displaying a sorted listing by value.
+1. ** Registering new products. **
+2. ** Displaying all registered products or displaying a sorted listing by value. **
 This project was originally developed as part of an assessment for a job position. It serves as an example for others to modify or extend as needed.
 
 Features
