@@ -52,12 +52,16 @@ Make sure Python is installed on your machine. You can download it from the offi
   Here you could include some screenshots to demonstrate the system's UI.
 
 ### Database Information
-The system uses an SQLite database stored as ```database.db```. The database contains a single table produtos with the following columns:
+The system uses an SQLite database stored as ```database.db```. The database contains a single table ```produtos``` with the following columns:
 
-nome: Name of the product.
-descricao: Description of the product.
-valor: Value of the product.
-disponivel: Availability of the product (Yes or No).
+  ```nome```: Name of the product.
+
+  ````descricao````: Description of the product.
+  
+  valor: Value of the product.
+  
+  disponivel: Availability of the product (Yes or No).
+  
 The database will be created automatically if it doesn't exist in the directory where the script is executed.
 
 Example of Use
