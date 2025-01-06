@@ -37,7 +37,7 @@ Make sure Python is installed on your machine. You can download it from the offi
 
 3. **Run the script**:
   ```bash
-  python product_registration.py
+  python product_manager.py
 ```
 ### How to Use
 1. **Run the application**: Launch the script to open the graphical user interface.
