@@ -44,9 +44,9 @@ Make sure Python is installed on your machine. You can download it from the offi
 
 2. **Register a Produc**: Fill in the fields for product name, description, value, and availability, then click on the "Register" button.
 3. **View Product Listings**:
-  Click on the "Full Listing" button to view all registered products in a detailed table.
+  * Click on the "Full Listing" button to view all registered products in a detailed table.
 
-  Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
+  * Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
   
 ### Screenshots
   Here you could include some screenshots to demonstrate the system's UI.
@@ -78,9 +78,9 @@ The database will be created automatically if it doesn't exist in the directory 
 2. **Displaying products**: After registration, you can view the full listing or sorted listing by clicking the respective buttons.
 
 ## Notes
-  Ensure that the database.db file is located in the same directory as the script, or it will be created automatically upon running the program.
+  * Ensure that the database.db file is located in the same directory as the script, or it will be created automatically upon running the program.
     
-  You can modify or expand the system to add more features, such as product editing or deleting, depending on your requirements.
+  * You can modify or expand the system to add more features, such as product editing or deleting, depending on your requirements.
   
 ## Contributing
 Feel free to fork this repository and modify it as needed. If you find any issues or have suggestions for improvements, don't hesitate to submit a pull request or open an issue.
