@@ -49,7 +49,10 @@ Make sure Python is installed on your machine. You can download it from the offi
   * Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
   
 ### Screenshots
-  Here you could include some screenshots to demonstrate the system's UI.
+  ````markdown
+  ![Image unavailable](C:\Users\Familia\Pictures\Screenshots\image01.jpg)
+````
+
 
 ### Database Information
 The system uses an SQLite database stored as ```database.db```. The database contains a single table ```produtos``` with the following columns:
