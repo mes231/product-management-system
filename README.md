@@ -67,13 +67,13 @@ The database will be created automatically if it doesn't exist in the directory 
 ## Example of Use
 1. **Adding a product**:
 
-  Name: "Laptop"
+  * Name: "Laptop"
   
-  Description: "High-end gaming laptop"
+  * Description: "High-end gaming laptop"
   
-  Value: "1500.00"
+  * Value: "1500.00"
   
-  Available: "Yes"
+  * Available: "Yes"
   
 2. **Displaying products**: After registration, you can view the full listing or sorted listing by clicking the respective buttons.
 
