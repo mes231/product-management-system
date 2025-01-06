@@ -49,9 +49,7 @@ Make sure Python is installed on your machine. You can download it from the offi
   * Click on the "Sorted Listing by Value" to see products listed by their value in a simplified format showing only the name and value.
   
 ### Screenshots
-  ````markdown
   ![Image unavailable](C:\Users\Familia\Pictures\Screenshots\image01.png)
-````
 
 
 ### Database Information
