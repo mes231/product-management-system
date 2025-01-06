@@ -48,13 +48,17 @@ Make sure Python is installed on your machine. You can download it from the offi
      
     * This list is displayed directly on the main screen, alongside the registration form.
      
-    * Content: Shows the name and price of the products.
+    * **Content**: Shows the name and price of the products.
      
-    * Update: The list updates automatically each time a new product is registered.
+    * **Update**: The list updates automatically each time a new product is registered.
      
-    * Sorting: The list is sorted by price, from lowest to highest.
+    * **Sorting**: The list is sorted by price, from lowest to highest.
+   
+  * Complete Lis:
      
-  * Click on the "Full Listing" button to view all registered products in a detailed table.
+    * Click on the "Full Listing" button to view all registered products in a detailed table.
+    * **Content**: Displays all product details.
+    * **Sorting**: Products are listed in the order they were entered, from oldest to newest.
   
 ### Screenshots
 ![Image unavailable](images/image01.png)
