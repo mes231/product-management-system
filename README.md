@@ -89,7 +89,7 @@ The database will be created automatically if it doesn't exist in the directory 
   
   * Available: "Yes"
   
-2. **Displaying products**: After registration, you can view the full listing or sorted listing by clicking the respective buttons.
+2. **Displaying products**: After registration, you can view the complete listing or the ordered listing.
 
 ## Notes
   * Ensure that the database.db file is located in the same directory as the script, or it will be created automatically upon running the program.
