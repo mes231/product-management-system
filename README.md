@@ -50,6 +50,7 @@ Make sure Python is installed on your machine. You can download it from the offi
   
 ### Screenshots
 ![Image unavailable](images/image01.png)
+![Image unavailable](images/image02.png)
 
 
 ### Database Information
