@@ -50,7 +50,7 @@ Make sure Python is installed on your machine. You can download it from the offi
   
 ### Screenshots
   ````markdown
-  ![Image unavailable](C:\Users\Familia\Pictures\Screenshots\image01.jpg)
+  ![Image unavailable](C:\Users\Familia\Pictures\Screenshots\image01.png)
 ````
 
 
